@@ -1,0 +1,33 @@
+.accordion-madia{
+    width: 100%;
+}
+
+@media (min-width: 450px) {
+    .accordion-madia {
+        max-width: 450px;
+    }
+}
+
+@media (min-width: 576px) {
+    .accordion-madia {
+        max-width: 500px;
+    }
+}
+
+@media (min-width: 768px) {
+    .accordion-madia {
+        max-width: 700px;
+    }
+}
+
+@media (min-width: 992px) {
+    .accordion-madia {
+        max-width: 700px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .accordion-madia {
+        max-width: 980px;
+    }
+}
